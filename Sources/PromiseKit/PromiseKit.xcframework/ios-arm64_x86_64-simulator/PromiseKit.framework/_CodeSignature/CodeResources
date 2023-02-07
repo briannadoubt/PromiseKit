@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		tiolMJL0dPQ+evZDqKkxKY0vkF8=
+		BM6sYFuoh9pnJ2t/At8rVQoPr6M=
 		</data>
 		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pIkmN2GdPoHZMLviNqCbpkZrLnk=
+		dhp1GX5mTj1bS+jP96EK9+SmquU=
 		</data>
 		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		tiolMJL0dPQ+evZDqKkxKY0vkF8=
+		BM6sYFuoh9pnJ2t/At8rVQoPr6M=
 		</data>
 		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RS2azOzankFtKkATQHWIp0Matg0=
+		S712qLqQiDJgh1SECQFSy5fy9LY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,11 +123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tiolMJL0dPQ+evZDqKkxKY0vkF8=
+			BM6sYFuoh9pnJ2t/At8rVQoPr6M=
 			</data>
 			<key>hash2</key>
 			<data>
-			TCaU97cZ9dV+dsbfPHpQXsjDRqiKyZTF9dM6Pt7Ni8A=
+			rPeg9wa5xcqHXMeToOv+uHi8jce9zW8xjJvTQO4wqpM=
 			</data>
 		</dict>
 		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -167,22 +167,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pIkmN2GdPoHZMLviNqCbpkZrLnk=
+			dhp1GX5mTj1bS+jP96EK9+SmquU=
 			</data>
 			<key>hash2</key>
 			<data>
-			pueeHGmZgSRBroHGtNf9fLyI9vaG3CsoG36mrHEUICQ=
+			SAcICMcJRdETUdWQT0w/zgudPcr8MIaGzwH2QMbMJTQ=
 			</data>
 		</dict>
 		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tiolMJL0dPQ+evZDqKkxKY0vkF8=
+			BM6sYFuoh9pnJ2t/At8rVQoPr6M=
 			</data>
 			<key>hash2</key>
 			<data>
-			TCaU97cZ9dV+dsbfPHpQXsjDRqiKyZTF9dM6Pt7Ni8A=
+			rPeg9wa5xcqHXMeToOv+uHi8jce9zW8xjJvTQO4wqpM=
 			</data>
 		</dict>
 		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -222,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RS2azOzankFtKkATQHWIp0Matg0=
+			S712qLqQiDJgh1SECQFSy5fy9LY=
 			</data>
 			<key>hash2</key>
 			<data>
-			sUwiR8LWqJtz64r2NPGon/850u205rfmYfaja8Gtcu4=
+			Gl3uOFRKU9SsThU/3HELX/482Bs+qaMa5higkc5qkmE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

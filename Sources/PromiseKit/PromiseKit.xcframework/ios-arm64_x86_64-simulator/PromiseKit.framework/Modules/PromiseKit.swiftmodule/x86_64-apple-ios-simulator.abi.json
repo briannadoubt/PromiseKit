@@ -10814,77 +10814,77 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Configuration.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 998,
       "length": 54,
       "value": "\"PromiseKit: warning: `wait()` called on main thread!\""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Configuration.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1113,
       "length": 50,
       "value": "\"PromiseKit: warning: pending promise deallocated\""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Configuration.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1226,
       "length": 52,
       "value": "\"PromiseKit: warning: pending guarantee deallocated\""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Configuration.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1336,
       "length": 39,
       "value": "\"PromiseKit:cauterized-error: \""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Configuration.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1374,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Box.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Box.swift",
       "kind": "Array",
       "offset": 147,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Box.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Box.swift",
       "kind": "StringLiteral",
       "offset": 470,
       "length": 9,
       "value": "\"PromiseKit.SealedBox\""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Box.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Box.swift",
       "kind": "StringLiteral",
       "offset": 780,
       "length": 24,
       "value": "\"org.promisekit.barrier\""
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Guarantee.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Guarantee.swift",
       "kind": "Array",
       "offset": 11929,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/Promise.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/Promise.swift",
       "kind": "Array",
       "offset": 4854,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/nickle\/Works\/PromiseKit\/Sources\/AnyPromise.swift",
+      "filePath": "\/Users\/nickle\/Works\/PromiseKit___\/Sources\/AnyPromise.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 12,

@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/PromiseKit-Swift.h</key>
 		<data>
-		CriUjX+GbIvypDm3l0fpcSB90do=
+		y1GYUd28DrAYWXDEd7Ua1H/j60o=
 		</data>
 		<key>Headers/PromiseKit.h</key>
 		<data>
@@ -22,47 +22,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		f/yLGG9Z6zGUKJ6qe8JKf3sr7yQ=
+		RUG5FkVbyF7F6iqvcChO5WXShLE=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
 		BM6sYFuoh9pnJ2t/At8rVQoPr6M=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		o6bCpDpU/Np3qy8Vy1P46gp97sQ=
+		/AsI2WYmD+F0e3zlv2fTRKxgbX0=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		gRMvJPVgAmHlX1rNcW7Al7n4DLc=
+		Ec6G3TT2Rsg0a7mCJQVfIoxdCzY=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		o6bCpDpU/Np3qy8Vy1P46gp97sQ=
+		/AsI2WYmD+F0e3zlv2fTRKxgbX0=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		dhp1GX5mTj1bS+jP96EK9+SmquU=
+		hVef0vBVDFGpyT8tHNlGEeun7Qk=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<data>
 		BM6sYFuoh9pnJ2t/At8rVQoPr6M=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		AHhqPGpFth6KRp0SO4whPiz0ItI=
+		CfnjOhT6QGSM/nug9jzjIC+7vFA=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		tHyiMyoXXcNhzVhmKCTX3seNpt8=
+		TwF2qgstbBva/jpFZ23V7P52WZs=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		AHhqPGpFth6KRp0SO4whPiz0ItI=
+		CfnjOhT6QGSM/nug9jzjIC+7vFA=
 		</data>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		S712qLqQiDJgh1SECQFSy5fy9LY=
+		J1CmL8mN50vMTytYae981s7ziPc=
+		</data>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
+		<data>
+		BM6sYFuoh9pnJ2t/At8rVQoPr6M=
+		</data>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
+		<data>
+		6MXj5Db5QIB3KL8WTJGUxx2u7uM=
+		</data>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
+		<data>
+		Z3s2WlGhnk3otPaHWMJKT2u6kt4=
+		</data>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		6MXj5Db5QIB3KL8WTJGUxx2u7uM=
+		</data>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
+		<data>
+		G7qnSStNLD50fvKDtX8j6F+nQ34=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -90,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CriUjX+GbIvypDm3l0fpcSB90do=
+			y1GYUd28DrAYWXDEd7Ua1H/j60o=
 			</data>
 			<key>hash2</key>
 			<data>
-			tRuQ/qXU02yOY2qRi69Xlj6+LM+xbEu3DaoYEDn78WA=
+			3D7xCH7zitZimSu7NuPLHCJh0XJfCAg86ct8XCtfPzI=
 			</data>
 		</dict>
 		<key>Headers/PromiseKit.h</key>
@@ -119,7 +139,7 @@
 			nAYmgbUZ8cztC8ie96ynicBetq4fI3C8a2bFy9D+vcA=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -130,51 +150,51 @@
 			rPeg9wa5xcqHXMeToOv+uHi8jce9zW8xjJvTQO4wqpM=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o6bCpDpU/Np3qy8Vy1P46gp97sQ=
+			/AsI2WYmD+F0e3zlv2fTRKxgbX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BzznZei/d+y6NzFrAp+L2WW3XOTXmoFjYzBjBmYfaQQ=
+			1MnOOwPs8OPcbpyhbL9dBfzlf8uHUue6vLnWy00JVbU=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gRMvJPVgAmHlX1rNcW7Al7n4DLc=
+			Ec6G3TT2Rsg0a7mCJQVfIoxdCzY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8VrNjGgIhtKyQuSoBHE92p/Cp4JDXcQorKkiGG+PkPc=
+			/stAl36TvExco0daGUwOfsGEyV81l1SwEPsfTEXzfYs=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o6bCpDpU/Np3qy8Vy1P46gp97sQ=
+			/AsI2WYmD+F0e3zlv2fTRKxgbX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BzznZei/d+y6NzFrAp+L2WW3XOTXmoFjYzBjBmYfaQQ=
+			1MnOOwPs8OPcbpyhbL9dBfzlf8uHUue6vLnWy00JVbU=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/PromiseKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dhp1GX5mTj1bS+jP96EK9+SmquU=
+			hVef0vBVDFGpyT8tHNlGEeun7Qk=
 			</data>
 			<key>hash2</key>
 			<data>
-			SAcICMcJRdETUdWQT0w/zgudPcr8MIaGzwH2QMbMJTQ=
+			HXsBIzUfjspwZM6PFVf9KcWgv8ghncNS3sqg7uSnZ3Q=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -185,48 +205,103 @@
 			rPeg9wa5xcqHXMeToOv+uHi8jce9zW8xjJvTQO4wqpM=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AHhqPGpFth6KRp0SO4whPiz0ItI=
+			CfnjOhT6QGSM/nug9jzjIC+7vFA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nJBHECCMGaNSNm8INRoBeQhH2aqBvskgJ542V7AvN6o=
+			MAlfGIaN7cevmSdxMHid0pg6EzDOw+JzlJB48BakO4s=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tHyiMyoXXcNhzVhmKCTX3seNpt8=
+			TwF2qgstbBva/jpFZ23V7P52WZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			fhSEnjg0bd9/Z+68Vzr+tWoV5Cd7rc4BvtoSFHCeDXI=
+			PGVNyeaXdCOx6gro/CvJHt87YBFL5O3RBe5g4fDoYCU=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AHhqPGpFth6KRp0SO4whPiz0ItI=
+			CfnjOhT6QGSM/nug9jzjIC+7vFA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nJBHECCMGaNSNm8INRoBeQhH2aqBvskgJ542V7AvN6o=
+			MAlfGIaN7cevmSdxMHid0pg6EzDOw+JzlJB48BakO4s=
 			</data>
 		</dict>
-		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/PromiseKit.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S712qLqQiDJgh1SECQFSy5fy9LY=
+			J1CmL8mN50vMTytYae981s7ziPc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gl3uOFRKU9SsThU/3HELX/482Bs+qaMa5higkc5qkmE=
+			yRJ7a+n+pylwzujZSJK+//8vsp4I+u4DoTsrHj6hQxI=
+			</data>
+		</dict>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BM6sYFuoh9pnJ2t/At8rVQoPr6M=
+			</data>
+			<key>hash2</key>
+			<data>
+			rPeg9wa5xcqHXMeToOv+uHi8jce9zW8xjJvTQO4wqpM=
+			</data>
+		</dict>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6MXj5Db5QIB3KL8WTJGUxx2u7uM=
+			</data>
+			<key>hash2</key>
+			<data>
+			gY8Az/I2Cxt7WkOey3EDxUbWn2V2htFUaO4W+P3OV+M=
+			</data>
+		</dict>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z3s2WlGhnk3otPaHWMJKT2u6kt4=
+			</data>
+			<key>hash2</key>
+			<data>
+			J7qUKiwKtv4olm2HsP9jBrhy2OUmbnpjz1aaanO9w70=
+			</data>
+		</dict>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6MXj5Db5QIB3KL8WTJGUxx2u7uM=
+			</data>
+			<key>hash2</key>
+			<data>
+			gY8Az/I2Cxt7WkOey3EDxUbWn2V2htFUaO4W+P3OV+M=
+			</data>
+		</dict>
+		<key>Modules/PromiseKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G7qnSStNLD50fvKDtX8j6F+nQ34=
+			</data>
+			<key>hash2</key>
+			<data>
+			+Kxho+0UaZC6bLo2FZNdAL9R9ETJrNm294luyfyeO8I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

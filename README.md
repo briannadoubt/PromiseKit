@@ -2,7 +2,7 @@
 
 Build `PromiseKit.xcframework` from the [origin repository](https://github.com/mxcl/PromiseKit).
 
-Add module file
+- Add module file:
 
 ```
 module PromiseKit {
@@ -11,26 +11,55 @@ module PromiseKit {
 }
 ```
 
+- Clone the PromiseKit project from here: https://github.com/mxcl/PromiseKit
+
+- Checkout the version you want to build the framework, here we use v6:
+
+- Run xcodebuild command to build the iOS libraries for simulator and real device:
+
 ```
 xcodebuild archive \
-    -scheme PromiseKit \
-    -destination "generic/platform=iOS" \
-    -archivePath "archives/PromiseKit-iphoneos.xcarchive" \
-    SKIP_INSTALL=NO \
-    BUILD_LIBRARY_FOR_DISTRIBUTION=YES
-        
-        
+ -scheme PromiseKit \
+ -archivePath ~/Desktop/PromiseKit-iphonesimulator.xcarchive \
+ -sdk iphonesimulator \
+ SKIP_INSTALL=NO
+```
+
+```
 xcodebuild archive \
-    -scheme PromiseKit \
-    -destination "generic/platform=iOS Simulator" \
-    -archivePath "archives/PromiseKit-iphonesimulator.xcarchive" \
-    SKIP_INSTALL=NO \
-    BUILD_LIBRARY_FOR_DISTRIBUTION=YES
-        
- xcodebuild -create-xcframework \
- -framework archives/PromiseKit-iphonesimulator.xcarchive/Products/Library/Frameworks/PromiseKit.framework \
- -framework archives/PromiseKit-iphoneos.xcarchive/Products/Library/Frameworks/PromiseKit.framework \
- -output archives/PromiseKit.xcframework
+ -scheme PromiseKit \
+ -archivePath ~/Desktop/PromiseKit-iphoneos.xcarchive \
+ -sdk iphoneos \
+ SKIP_INSTALL=NO
+```
+
+- Run xcodebuild command to build the WatchOS framework for simulator and real device:
+
+```
+xcodebuild archive \
+ -scheme PromiseKit \
+ -archivePath ~/Desktop/PromiseKit-watchos.xcarchive \
+ -sdk watchos \
+ SKIP_INSTALL=NO
+```
+
+```
+xcodebuild archive \
+ -scheme PromiseKit \
+ -archivePath ~/Desktop/PromiseKit-watchossimulator.xcarchive \
+ -sdk watchsimulator \
+ SKIP_INSTALL=NO
+```
+
+- Finally create the framework:
+
+```
+xcodebuild -create-xcframework \
+    -framework "archives/PromiseKit-iphoneos.xcarchive/Products/Library/Frameworks/PromiseKit.framework" \
+    -framework "archives/PromiseKit-iphonesimulator.xcarchive/Products/Library/Frameworks/PromiseKit.framework" \
+    -framework "archives/PromiseKit-watchossimulator.xcarchive/Products/Library/Frameworks/PromiseKit.framework" \
+    -framework "archives/PromiseKit-watchos.xcarchive/Products/Library/Frameworks/PromiseKit.framework" \
+    -output "xcframeworks/PromiseKit.xcframework"
 ```
 
 

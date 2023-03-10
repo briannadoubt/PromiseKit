@@ -1,3 +1,4 @@
+#if TARGET_OS_WATCH
 #import <PromiseKit/AnyPromise.h>
 #import <UIKit/UIView.h>
 
@@ -78,3 +79,4 @@
 + (AnyPromise *)promiseWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewKeyframeAnimationOptions)options keyframeAnimations:(void (^)(void))animations NS_REFINED_FOR_SWIFT;
 
 @end
+#endif

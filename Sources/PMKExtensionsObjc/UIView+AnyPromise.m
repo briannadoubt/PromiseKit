@@ -5,7 +5,7 @@
 //  Created by Masafumi Yoshida on 2014/07/11.
 //  Copyright (c) 2014年 DeNA. All rights reserved.
 //
-
+#if TARGET_OS_WATCH
 #import <PromiseKit/PromiseKit.h>
 #import "UIView+AnyPromise.h"
 
@@ -62,3 +62,4 @@
 }
 
 @end
+#endif

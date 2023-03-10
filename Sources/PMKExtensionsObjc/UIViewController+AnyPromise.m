@@ -1,3 +1,4 @@
+#if TARGET_OS_WATCH
 #import <UIKit/UINavigationController.h>
 #import "UIViewController+AnyPromise.h"
 #import <PromiseKit/PromiseKit.h>
@@ -138,3 +139,4 @@
 #endif
 
 @end
+#endif

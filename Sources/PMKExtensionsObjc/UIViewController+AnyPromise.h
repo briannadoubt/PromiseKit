@@ -1,3 +1,4 @@
+#if TARGET_OS_WATCH
 #import <PromiseKit/PromiseKit.h>
 #import <UIKit/UIViewController.h>
 
@@ -69,3 +70,4 @@
 - (AnyPromise *)promiseViewController:(UIViewController *)vc animated:(BOOL)animated completion:(void (^)(void))block NS_REFINED_FOR_SWIFT;
 
 @end
+#endif
